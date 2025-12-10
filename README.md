@@ -2,7 +2,6 @@
 
 Repository for the submission to MIDL 2026 by Simon Gutwein & Arthur Longuefosse.
 
-This repository contains the code, configuration files, and experiments for CIM-S, including
-self-supervised and supervised training pipelines, evaluation scripts, and phenotyping workflows.
+This repository contains code and configuration files for CIM-S, including self-supervised and supervised training, evaluation, and phenotyping workflows.
 
 <br clear="left"/>
