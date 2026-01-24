@@ -2,6 +2,6 @@
 
 Repository for the submission to MIDL 2026 by Simon Gutwein & Arthur Longuefosse.
 
-This repository contains code and configuration files for CIM-S, including self-supervised and supervised training, evaluation, and phenotyping workflows.
+This repository contains code and configuration files for CIM-S, including self-supervised and supervised training, evaluation, and phenotyping workflows. The file `example.ipynb` provides a minimal working example that reproduces key CIM and phenotyping steps, including the generation of the main plots.
 
 <br clear="left"/>
